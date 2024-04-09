@@ -19,4 +19,4 @@ The goal of the SVM algorithm is to create the best line or decision boundary th
 
 
 ## Conclusion
-![Conclusion](https://github.com/CatalystsReachOut/Sugar-Prediction-Using-SVM/blob/main/Conclusion.png)
+![Conclusion](https://github.com/parvinder0201/Diabetes-Prediction-using-SVM/blob/main/Conclusion.png)
